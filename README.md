@@ -1,12 +1,12 @@
-# Content: Model Evaluation and Validation
+#  Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
 Things I learned by completing this project:
 
-- How to use NumPy to investigate the latent features of a dataset.
-- How to analyze various learning performance plots for variance and bias.
-- How to determine the best-guess model for predictions from unseen data.
-- How to evaluate a model's performance on unseen data using previous data.
+- How to use NumPy, Pandas, Scikit-learn to investigate the latent features of a dataset.
+- How to detect underfitting and overfitting using learning curves
+- How to do grid search to find the optimal hyper parameters
+- How to  use evaluate a model's performance on unseen data using previous data.
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
